@@ -1,0 +1,8 @@
+- Hi! I'm @irenepintor and soon to be Full Stack Programmer.
+- I'm interested in building innovative, dynamic web sites and apps, and whatever surprise comes along.
+- Connect with interesting and knowledgeable people around the world. 
+- I'm currently studying JavaScript on Coder House and along the year I'll be learning React Js and Backend programming.
+- Looking forward to add even more knowledge related to this enormous wold that is programming.
+- I'm currently working on personal projects such as e-commerce web sites and professional photography portfolios.
+- If you are reading this you're free to snoop into my coding.
+- How to reach me: pintor.irene@outlook.com
