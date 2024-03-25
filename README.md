@@ -38,6 +38,7 @@
 - **Frameworks**:
 
    ![REACT JS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB")
+   ![ASTRO](https://img.shields.io/badge/astro-%2320232a.svg?style=for-the-badge&logo=astro&logoColor=%2361DAFB")
 
 <br>
 
