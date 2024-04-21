@@ -1,20 +1,23 @@
-<h1 align="center"><b>Hi , I'm Irene Pintor </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p> -->
-
-<br>
-
-## **About me**
-
-<br>
-<!--
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link]()
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
--->
+<h2 class="font-bold text-3xl text-teal-200 hover:text-cyan-500">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h1 class="text-white text-4xl font-bold flex flex-row gap-x-4 pb-4">
+        My name is Irene and
+        <a
+          href="https://www.linkedin.com/in/irene-pintor/"
+          target="_blank"
+          rel="noopener"
+          class="flex justify-center items-center">
+          <Badge>I'm open to work!</Badge>
+        </a>
+      </h1>
+      <h2 class="text-2xl text-wrap">
+        <span class="opacity-80 text-cyan-600">
+          Web Developer based in Buenos Aires, Argentina.
+        </span>
+        <h5>
+          Training as a Front End Developer focused on
+          <strong>UX/UI Design</strong>.
+        </h5>
+      </h2>
 
 <br>
 
