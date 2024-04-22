@@ -60,6 +60,8 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
     ![Figma](https://img.shields.io/badge/Figma-CC6699?style=for-the-badge&logo=figma&logoColor=white)
+    ![Photoshop](https://img.shields.io/badge/photoshop-2FA3F7?style=for-the-badge&logo=photoshop&logoColor=white)
+    ![Illustrator](https://img.shields.io/badge/illustrator-F79500?style=for-the-badge&logo=illustrator&logoColor=white)
 
 <br>
 
