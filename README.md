@@ -1,4 +1,4 @@
-<h2 class="font-bold text-3xl text-teal-200 hover:text-cyan-500">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2 class="font-bold text-3xl">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <h1 class="text-white text-4xl font-bold flex flex-row gap-x-4 pb-4">
         My name is Irene and
         <a
@@ -33,6 +33,8 @@
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
    ![Node JS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
+   ![VITE JS](https://img.shields.io/badge/vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=%2361DAFB")
+  
    ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
