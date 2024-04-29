@@ -34,9 +34,11 @@
 
    ![Node JS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
    ![VITE JS](https://img.shields.io/badge/vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=%2361DAFB")
+   ![BUN](https://img.shields.io/badge/bun-%2320232a.svg?style=for-the-badge&logo=bun&logoColor=%2361DAFB")
   
    ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
 
 <br>
     
