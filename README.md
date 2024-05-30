@@ -11,7 +11,7 @@
       </h1>
       <h2 class="text-2xl text-wrap">
         <span class="opacity-80 text-cyan-600">
-          Web Developer based in Buenos Aires, Argentina.
+          Front-End Developer based in Buenos Aires, Argentina.
         </span>
         <h5>
           Training as a Front End Developer focused on
